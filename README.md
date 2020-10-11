@@ -4,3 +4,5 @@ stepik - auto tests course
 My first commit
 
 Second try
+
+The third commit
